@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/chenyunhong/Desktop/Yun/NTUT_OS/Multithread",
+      "program": "/Users/chenyunhong/Desktop/Yun/NTUT_OS/Multithread/build/Debug/outDebug"
+    }
+  ]
+}
